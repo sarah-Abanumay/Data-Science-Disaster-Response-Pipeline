@@ -34,11 +34,11 @@ Next, go to http://0.0.0.0:3001/
 
 •	DisasterResponse.db – this database fie contains the clean data processed in “process_data.py”
 
-•	Disaster_categories.csv – this text file contains a column with concatenates category names
+•	categories.csv – this text file contains a column with concatenates category names
 
-•	Disaster_messages.csv – this text file contains messages typed by disaster victims
+•	messages.csv – this text file contains messages typed by disaster victims
 
-# 	Train_classifer – This Python file contains the following steps:
+# Train_classifer – This Python file contains the following steps:
 
         •	Tokenizes disaster message text, normalizes that text to lower case, and removes stop words
 

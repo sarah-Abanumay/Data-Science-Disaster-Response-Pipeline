@@ -38,7 +38,7 @@ Next, go to http://0.0.0.0:3001/
 
 •	messages.csv – this text file contains messages typed by disaster victims
 
-# Train_classifer – This Python file contains the following steps:
+# Train_classifer – This Python file contains the following steps: 
 
         •	Tokenizes disaster message text, normalizes that text to lower case, and removes stop words
 
